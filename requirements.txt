@@ -1,6 +1,6 @@
 tgcrypto
 requests
-youtube_dl
+yt_dlp
 ffmpeg-python
 python-dotenv
 youtube_search_python
